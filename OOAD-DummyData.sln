@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOAD-DummyData", "OOAD-DummyData\OOAD-DummyData.csproj", "{793F8EDE-551C-41B2-BF78-A0551F51BD94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{793F8EDE-551C-41B2-BF78-A0551F51BD94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{793F8EDE-551C-41B2-BF78-A0551F51BD94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{793F8EDE-551C-41B2-BF78-A0551F51BD94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{793F8EDE-551C-41B2-BF78-A0551F51BD94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
